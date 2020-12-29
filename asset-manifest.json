@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stardew-valley-companion/static/css/main.16e0fdc9.chunk.css",
-    "main.js": "/stardew-valley-companion/static/js/main.449956d0.chunk.js",
-    "main.js.map": "/stardew-valley-companion/static/js/main.449956d0.chunk.js.map",
+    "main.js": "/stardew-valley-companion/static/js/main.a3f8dc16.chunk.js",
+    "main.js.map": "/stardew-valley-companion/static/js/main.a3f8dc16.chunk.js.map",
     "runtime-main.js": "/stardew-valley-companion/static/js/runtime-main.5a324bc6.js",
     "runtime-main.js.map": "/stardew-valley-companion/static/js/runtime-main.5a324bc6.js.map",
     "static/js/2.c0c45050.chunk.js": "/stardew-valley-companion/static/js/2.c0c45050.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.9bee8759.chunk.js.map": "/stardew-valley-companion/static/js/3.9bee8759.chunk.js.map",
     "index.html": "/stardew-valley-companion/index.html",
     "static/css/main.16e0fdc9.chunk.css.map": "/stardew-valley-companion/static/css/main.16e0fdc9.chunk.css.map",
-    "static/js/2.c0c45050.chunk.js.LICENSE.txt": "/stardew-valley-companion/static/js/2.c0c45050.chunk.js.LICENSE.txt",
-    "static/media/saves.fcbc1529.xml": "/stardew-valley-companion/static/media/saves.fcbc1529.xml"
+    "static/js/2.c0c45050.chunk.js.LICENSE.txt": "/stardew-valley-companion/static/js/2.c0c45050.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5a324bc6.js",
     "static/js/2.c0c45050.chunk.js",
     "static/css/main.16e0fdc9.chunk.css",
-    "static/js/main.449956d0.chunk.js"
+    "static/js/main.a3f8dc16.chunk.js"
   ]
 }
