@@ -60,7 +60,7 @@ function App() {
   const parseAndSetDataFromSaveFile = xmlString => {
     parseString(xmlString, {explicitArray: false}, (err, result) => {
       if (result) {
-        if (!!result.SaveGame) {
+        if (!!!result.SaveGame) {
           alert('Invalid save file.');
           return;
         }
