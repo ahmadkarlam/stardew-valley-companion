@@ -1,5 +1,4 @@
-import saveFile from './saves.xml';
-import React, {useState, useEffect} from "react";
+import React, {useState} from "react";
 import database from './database.json';
 import Datatable from "./datatable";
 import SellItem from "./sell_item";
