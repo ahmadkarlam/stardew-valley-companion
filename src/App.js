@@ -52,7 +52,6 @@ function onChangeSaveFile(e, onLoad) {
 }
 
 function App() {
-  const [data, setData] = useState({});
   const [items, setItems] = useState([]);
   const [money, setMoney] = useState(0);
   const [totalSellItem, setTotalSellItem] = useState(0);
@@ -64,7 +63,6 @@ function App() {
           alert('Invalid save file.');
           return;
         }
-        setData(result);
         getAndSetItemFromSaveGame(result, setItems);
         setMoney(result.SaveGame.player.money);
       }
