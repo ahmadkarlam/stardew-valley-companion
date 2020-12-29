@@ -38,6 +38,7 @@ function getAndSetItemFromSaveGame(data, setItems) {
     .forEach(gameLocation => {
       gameLocation.objects.item
         .forEach(chest => {
+          if (!chest.value.Object.items) return;
           setItems(x => x.concat(
             chest.value.Object.items.Item.map(transformItemOnChest)
           ));
