@@ -12,6 +12,12 @@ const columns = [
     </div>,
   },
   {
+    name: 'Quality',
+    selector: 'qualityId',
+    cell: (row) => <span>{row.quality}</span>,
+    sortable: true,
+  },
+  {
     name: 'Qty',
     selector: 'stack',
     sortable: true,

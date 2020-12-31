@@ -9,7 +9,8 @@ function transformItemOnChest(chest) {
   chest = {
     ...chest,
     image: '',
-    isSelected: 0
+    isSelected: 0,
+    qualityId: Number(chest.quality) || 0,
   };
   chest.quality = database.quality[chest.quality] || "Regular";
   chest.image = database.images[`${chest.quality.toLowerCase()}_quality_icon`];
