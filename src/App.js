@@ -80,8 +80,8 @@ function App() {
           }}/>
           <p>Default save location:</p>
           <ul>
-            <li>Windows: %AppData%\StardewValley\Saves\</li>
-            <li>Mac OSX & Linux: ~/.config/StardewValley/Saves/</li>
+            <li>Windows: <code>%AppData%\StardewValley\Saves\</code></li>
+            <li>Mac OSX & Linux: <code>~/.config/StardewValley/Saves/</code></li>
           </ul>
         </div>
         <div className="col-8">
