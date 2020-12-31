@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stardew-valley-companion/static/css/main.16e0fdc9.chunk.css",
-    "main.js": "/stardew-valley-companion/static/js/main.8f249842.chunk.js",
-    "main.js.map": "/stardew-valley-companion/static/js/main.8f249842.chunk.js.map",
+    "main.js": "/stardew-valley-companion/static/js/main.ba3c9c61.chunk.js",
+    "main.js.map": "/stardew-valley-companion/static/js/main.ba3c9c61.chunk.js.map",
     "runtime-main.js": "/stardew-valley-companion/static/js/runtime-main.cbd76bc9.js",
     "runtime-main.js.map": "/stardew-valley-companion/static/js/runtime-main.cbd76bc9.js.map",
     "static/js/2.62d41afc.chunk.js": "/stardew-valley-companion/static/js/2.62d41afc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cbd76bc9.js",
     "static/js/2.62d41afc.chunk.js",
     "static/css/main.16e0fdc9.chunk.css",
-    "static/js/main.8f249842.chunk.js"
+    "static/js/main.ba3c9c61.chunk.js"
   ]
 }
